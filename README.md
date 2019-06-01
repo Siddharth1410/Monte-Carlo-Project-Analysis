@@ -18,3 +18,4 @@ days to complete&nbsp;&nbsp;&nbsp;**prob** | days to complete&nbsp;&nbsp;&nbsp;*
 python MonteProject.py
 
 ## Example
+![](https://raw.githubusercontent.com/Siddharth1410/Monte-Carlo-Project-Analysis/master/monpro.png)
