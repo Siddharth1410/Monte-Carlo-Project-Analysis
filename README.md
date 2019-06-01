@@ -11,4 +11,4 @@ days to complete      prob | days to complete      prob |days to complete      p
 3         70% | 1   50% | 6     60% | 4        80%
 4         20% | 2   50% | 8     20% | 5        10%
 2         10% |         | 5     20% | 3        5%
-              |         |           | 2        5%
+&nbsp         |         |           | 2        5%
